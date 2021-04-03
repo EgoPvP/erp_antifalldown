@@ -16,6 +16,5 @@ Citizen.CreateThread(function()
             SetEntityCoords(PlayerPedId(), playerCoordsUP.x, playerCoordsUP.y, nearZ)
         end
 
-        
     end
 end)
