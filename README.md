@@ -1,5 +1,5 @@
 # erp_antifalldown
-Stop your Player from falling below the map into the **dark** void.
+Stop your Player from falling into the **dark** void.
 
 This script basicly teleports you back to the ground if you fell through the map into the dark void. Thus stopping you from falling endlessly.
 
