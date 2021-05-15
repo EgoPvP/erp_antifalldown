@@ -9,6 +9,10 @@ This script basicly teleports you back to the ground if you fell through the map
 - Add `ensure erp_antifalldown` to your server.cfg
 - (Optional) Edit the height at which a player wil lbe teleported to the top in the config.lua file
 
+## Support
+
+Discord - https://discord.gg/6jsHUVMh8G
+
 ## Donate
 If you like my work, you can Support me by donating to me
 
