@@ -8,6 +8,12 @@ This script basicly teleports you back to the ground if you fell through the map
 - Copy the Folder into your ressources/ folder
 - Add `ensure erp_antifalldown` to your server.cfg
 - (Optional) Edit the height at which a player wil lbe teleported to the top in the config.lua file
+- 
+## Other Scripts
+
+[erp_towscript](https://github.com/EgoPvP/erp_towscript) - Highly Customisable and top working Vehicle Towing Script for FiveM
+[SaltyNUI](https://github.com/EgoPvP/SaltyNUI) - Discourage Users without Temspeak running when using SaltyChat!
+[sitdown](https://github.com/EgoPvP/sitdown) - Sitting made easy!
 
 ## Support
 
