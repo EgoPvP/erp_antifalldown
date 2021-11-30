@@ -17,7 +17,7 @@ This script basicly teleports you back to the ground if you fell through the map
 
 ## Support
 
-Discord - https://discord.gg/6jsHUVMh8G
+Discord - https://discord.gg/qRc5Hbb
 
 ## Donate
 If you like my work, you can Support me!
